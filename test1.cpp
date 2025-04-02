@@ -7,8 +7,8 @@ int main(){
     //cout<<"Enter your name\n";
    cin>>greeting;
      cout<<"Your name is "<<greeting<<endl;
-    //cout<<"size of int "<<(sizeof(int))<<endl;
-    //cout<<"size of char "<<(sizeof(char))<<endl;
+    cout<<"size of int "<<(sizeof(int))<<endl;
+    cout<<"size of char "<<(sizeof(char))<<endl;
     //cout<<"size of double "<<(sizeof(double))<<endl;
     //cout<<"size of long "<<(sizeof(long))<<endl;
    // cout<<"size of float "<<(sizeof(float))<<endl;
