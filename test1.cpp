@@ -5,8 +5,8 @@ int main(){
     //string greeting;
     //cout<<greeting<<endl<<"a new line using endl object\n"<<"another line using the backslash and an n operators\n\n"<<"inserting a blank line";
     //cout<<"Enter your name\n";
-   // cin>>greeting;
-   // cout<<"Your name is "<<greeting<<endl;
+   cin>>greeting;
+     cout<<"Your name is "<<greeting<<endl;
     //cout<<"size of int "<<(sizeof(int))<<endl;
     //cout<<"size of char "<<(sizeof(char))<<endl;
     //cout<<"size of double "<<(sizeof(double))<<endl;
